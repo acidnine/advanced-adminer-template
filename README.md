@@ -1,6 +1,6 @@
 # advanced-adminer-template
 Advanced Adminer theme and configuration.
 
-Requires Adminer 4.7.2: https://github.com/vrana/adminer/tree/v4.7.2
+Works with Adminer through 4.8.0: https://github.com/vrana/adminer/tree/v4.8.0
 
 Download page: https://github.com/vrana/adminer/releases
